@@ -3,7 +3,7 @@ This repository contains supporting materials for the article "Using the Busines
 
 "Artefact Image.jpg" is a picture of the model. (We recommend viewing the model in Miro, see next file). <br />
 
-"Artefact Link.txt" contains the link to the Miro board, where one can interact with the model. <br />
+"Artefact Link.txt" contains the link to the Miro board where one can interact with the model. <br />
 
 "Policy With Mark Up.pdf" shows the policy text with reference ID markup in red. <br />
 
